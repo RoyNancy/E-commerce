@@ -1,0 +1,16 @@
+.header {
+    margin: 0px;
+    background: #FF9800;
+    padding: 10px;
+}
+
+.header li {
+    color: #fff;
+    display: inline-block;
+    padding: 20px;
+}
+
+.header li a {
+    text-decoration: none;
+    color: black
+}
